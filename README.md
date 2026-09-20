@@ -11,4 +11,6 @@ genshin-shaders 着色器实验、副本录商店 App、技能库镜像、github
 
 ## 下载
 
-见 Releases（加速前缀：`https://githubproxy.cc/` + 链接）。
+**推荐下载 [脱敏版 scrubbed-20260920](https://github.com/abc111xy/shenji-archive/releases/tag/scrubbed-20260920)**（已移除全部明文凭证）。原始版 original-20260918 仅作留档。
+
+加速前缀：`https://githubproxy.cc/` + 链接。
